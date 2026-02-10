@@ -1,5 +1,5 @@
 # TaskCli
-[https://github.com/harshVar007/TaskCli](https://github.com/harshVar007/TaskCli)
+https://github.com/harshVar007/TaskCli
 ### TaskCli in Java - In Progress
 
 ### Usage 
