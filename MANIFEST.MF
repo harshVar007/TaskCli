@@ -1,0 +1,2 @@
+Main-class: TaskCli
+Class-Path: lib/TaskCli.class lib/TaskStorage.class lib/Task.class
