@@ -127,7 +127,7 @@ public class TaskCli {
     }
 
     private static int nextId(List<Task> taskList) {
-
+        
         return taskList.stream().mapToInt(Task::getId).max().orElse(0) + 1;
     }
 
