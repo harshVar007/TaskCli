@@ -2,7 +2,7 @@
 ### TaskCli in Java - In Progress
 
 ### Usage 
-``Usage: add \<value> | delete \<id> | setStatus \<id> \<status> | filter \<status> | help | getAll``
+``Usage: add <value> | delete <id> | setStatus <id> <status> | filter <status> | help | getAll``
 
 #### Options
 1. add \<value> : add value to the list
