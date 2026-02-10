@@ -33,7 +33,7 @@ public class Task implements Serializable
 
     @Override
     public String toString() {
-        return "id=" + id + ": task" + task + ", status=" + status ;
+        return "id=" + id + ": task=" + task + ", status=" + status ;
     }
 
     public void setId(int id) {
